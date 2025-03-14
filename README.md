@@ -14,6 +14,6 @@ Welcome to my GitHub profile! I'm **Abdulrahman**, a passionate developer with e
 
 ## 📫 Connect with Me
 - 🏆 Always open to collaboration on exciting projects!
-- 📩 Reach me via **[LinkedIn](https://www.linkedin.com/in/your-profile/)** or email
+- 📩 Reach me via body.ashraf331@gmail.com
 
 Thanks for visiting! Feel free to check out my repositories and contribute! 🚀
